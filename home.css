@@ -63,6 +63,10 @@ img {
     max-height:100%;
 }
 
+p.clear {
+    clear:both;
+}
+
 .unbulleted {
     list-style-type:none;
 }
