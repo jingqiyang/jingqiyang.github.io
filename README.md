@@ -9,4 +9,4 @@ correct implementations:
 * no whitespace in file names
 * all content in master branch jingqiyang.github.io
 
-approximately 6 hrs spent completing assignment
+approximately 8 hrs spent completing assignment
