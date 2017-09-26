@@ -1,6 +1,33 @@
 body {
-    font-family: 'Raleway', sans-serif, Arial;
-    background-color: white;
+    font-family:'Raleway', sans-serif, Arial;
+    background-color:white;
+    margin-left:20px;
+}
+
+#pg-title {
+    display:inline;
+    line-height:56px;
+}
+
+#nav {
+    display:flex;
+    justify-content:flex-end;
+    float:right;
+    line-height:56px;
+}
+
+.link {
+    font-size:20px;
+    margin-left:20px;
+    margin-right:20px;
+}
+
+hr {
+    margin-top:20px;
+    margin-bottom:24px;
+    border-color:#efefef;
+    background-color:#efefef;
+    color:#efefef;
 }
 
 h1 {
@@ -15,11 +42,21 @@ p, li {
     font-size:18px;
 }
 
-ul.unbulleted {
+a {
+    text-decoration:none;
+    color:#3675db;
+}
+
+.img {
+    float:left;
+    margin-right:40px;
+}
+
+.unbulleted {
     list-style-type:none;
 }
 
-li.spaced {
+.spaced {
     margin-top:1em;
     margin-bottom:1em;
 }
