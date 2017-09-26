@@ -6,6 +6,10 @@ body {
     color:#14331c;
 }
 
+header {
+    white-space:nowrap;
+}
+
 #pg-title {
     display:inline;
     line-height:56px;
