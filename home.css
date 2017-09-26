@@ -2,6 +2,7 @@ body {
     font-family:'Raleway', sans-serif, Arial;
     background-color:white;
     margin-left:20px;
+    color:#14331c;
 }
 
 #pg-title {
@@ -23,11 +24,11 @@ body {
 }
 
 hr {
-    margin-top:20px;
-    margin-bottom:24px;
-    border-color:#efefef;
-    background-color:#efefef;
-    color:#efefef;
+    margin-top:4px;
+    margin-bottom:32px;
+    border-color:#e3f2e7;
+    background-color:#e3f2e7;
+    color:#e3f2e7;
 }
 
 h1 {
@@ -36,6 +37,8 @@ h1 {
 
 h3 {
     font-size:20px;
+    margin-bottom:0px;
+    padding-bottom:0px;
 }
 
 p, li {
@@ -44,7 +47,7 @@ p, li {
 
 a {
     text-decoration:none;
-    color:#3675db;
+    color:#369652;
 }
 
 .img {
