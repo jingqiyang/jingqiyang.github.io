@@ -1,12 +1,3 @@
-# jingqiyang.github.io
-assignment 1: user pages
+Hi! Welcome to the github repo for Jingqi's website.
 
-correct implementations:
-
-* 3 html pages index.html, bio.html, resume.html passed official html5 specifications
-* css file without frames or styling elements/attributes passed official css validation
-* local paths for images
-* no whitespace in file names
-* all content in master branch jingqiyang.github.io
-
-approximately 8 hrs spent completing assignment
+Feel free to check out the index, about, resume, and projs pages.
