@@ -67,6 +67,12 @@ img {
     max-height:100%;
 }
 
+.circle {
+    border:4px double;
+    color:#01380f;
+    border-radius:100%;
+}
+
 p.clear {
     clear:both;
 }
