@@ -71,6 +71,8 @@ img {
     border:4px double;
     color:#01380f;
     border-radius:100%;
+    max-width:360px;
+    max-height:360px;
 }
 
 p.clear {
