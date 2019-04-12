@@ -71,8 +71,8 @@ img {
     border:4px double;
     color:#01380f;
     border-radius:100%;
-    max-width:300px;
-    max-height:300px;
+    max-width:360px;
+    max-height:360px;
 }
 
 p.clear {
@@ -108,5 +108,14 @@ p.clear {
     #nav {
         float:none;
         justify-content:center;
+    }
+
+    .circle {
+/*        position: fixed;
+        top:  50%;
+        left: 50%;
+        transform: translate(-50%,-50%);*/
+        max-width:240px;
+        max-height:240px;
     }
 }
