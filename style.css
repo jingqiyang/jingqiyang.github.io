@@ -111,4 +111,13 @@ p.clear {
         float:none;
         justify-content:center;
     }
+
+    img {
+        float:none;
+    }
+
+    .circle {
+        margin:auto;
+        display:block;
+    }
 }
