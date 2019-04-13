@@ -114,14 +114,12 @@ p.clear {
 
     img {
         float:none;
-        max-width:360px;
-        max-height:360px;
     }
 
     .circle {
         margin:auto;
         display:block;
-        max-width:360px;
-        max-height:360px;
+        max-width:60%;
+        max-height:60%;
     }
 }
