@@ -95,7 +95,7 @@ p.clear {
     color:#355b3e;
 }
 
-@media screen and (max-width:750px) {
+@media screen and (max-width:1081px) {
 
     body {
         margin-left:20px;
