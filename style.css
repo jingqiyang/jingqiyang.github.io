@@ -95,7 +95,7 @@ p.clear {
     color:#355b3e;
 }
 
-@media screen and (max-height:900px) and (max-width:600px) {
+@media screen and (max-width:750px) {
 
     body {
         margin-left:20px;
@@ -114,12 +114,14 @@ p.clear {
 
     img {
         float:none;
+        max-width:360px;
+        max-height:360px;
     }
 
     .circle {
         margin:auto;
         display:block;
-        max-width:80%;
-        max-height:80%;
+        max-width:360px;
+        max-height:360px;
     }
 }
