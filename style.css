@@ -73,6 +73,8 @@ img {
     border-radius:100%;
     max-width:360px;
     max-height:360px;
+    margin-left:20px;
+    margin-right:20px;
 }
 
 p.clear {
@@ -108,14 +110,5 @@ p.clear {
     #nav {
         float:none;
         justify-content:center;
-    }
-
-    .circle {
-/*        position: fixed;
-        top:  50%;
-        left: 50%;
-        transform: translate(-50%,-50%);*/
-        max-width:240px;
-        max-height:240px;
     }
 }
